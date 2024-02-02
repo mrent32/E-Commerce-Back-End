@@ -29,5 +29,9 @@
   You can contact me via the following links with any questions
   [Github](https://github.com/mrent/32)
 
+  ## Walkthrough video
+  Here is a link to the walkthrough of the project since it is not deployed
+  https://youtu.be/epQeWqjqv7Y
+
   [Email: mrrenteria0159@gmail.com{{mailto:mrrenteria0159@gmail.com}
   
